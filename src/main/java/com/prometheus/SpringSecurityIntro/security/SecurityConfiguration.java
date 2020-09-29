@@ -1,4 +1,4 @@
-package com.prometheus.SpringSecurityIntro;
+package com.prometheus.SpringSecurityIntro.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
